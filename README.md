@@ -15,6 +15,6 @@ Placer le texte du footer au centre du footer
   ## Résultat attendu : 
   ![enter image description here](https://image.noelshack.com/fichiers/2023/41/1/1696876505-2023-10-09-20-34-17-document-opera.jpg)
 
-**PAS LE DROIT AU MARGIN OU AUTRE POSITIONNEMENT**
+**PAS LE DROIT AU MARGIN OU AUTRE POSITIONNEMENT ET ENCORE MOINS DE MODIFIER LE HTML !!!**
 
 **Seul le flex est votre dieu !**
